@@ -35,3 +35,7 @@ npm run build
 ## Deploy
 
 Este projeto esta pronto para deploy no Vercel com a configuracao padrao do Vite.
+
+Projeto publicado:
+
+- https://atividadeqrcode.vercel.app
